@@ -1,2 +1,29 @@
-# AD_WebApiTemplate
-A template for web api in C# which includes sample Controller, Unit test, Swagger, Cors fix, Identity server validation for single sign on, Log4net for logging, Aws mailer, Encyption &amp; Decryption using Bcrypt and Rijndael, HTML format mail builder,  DataBase Context using Entity Framework
+# README #
+
+This README would normally document whatever steps are necessary to get your application up and running.
+
+### What is this repository for? ###
+
+* Quick summary
+* Version
+* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+
+### How do I get set up? ###
+
+* Summary of set up
+* Configuration
+* Dependencies
+* Database configuration
+* How to run tests
+* Deployment instructions
+
+### Contribution guidelines ###
+
+* Writing tests
+* Code review
+* Other guidelines
+
+### Who do I talk to? ###
+
+* Repo owner or admin
+* Other community or team contact
