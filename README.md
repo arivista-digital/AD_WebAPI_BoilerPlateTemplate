@@ -4,26 +4,19 @@ This README would normally document whatever steps are necessary to get your app
 
 ### What is this repository for? ###
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
+A template for asp.net core web api in C# which includes 
+* Sample Controller to Add, Delete, Update and Select product by id
+* Unit test
+* Swagger for documentation
+* Cors fix
+* Identity server validation for single sign on
+* Log4net for logging
+* Aws mailer
+* Encyption & Decryption using Bcrypt and Rijndael
+* HTML format mail builder
+* DataBase Context using Entity Framework
 
 ### Who do I talk to? ###
 
-* Repo owner or admin
-* Other community or team contact
+* @arivista-digital for repo related queries
+* @arularivista and @venkatesharivista
